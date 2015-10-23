@@ -34,7 +34,7 @@
 * JavaScript frameworks (Angular, Ember, React, Backbone, etc.) +1
 * Current trends and new tech
 * Watching conference talk videos
-* SQL
+* SQL +1
 * Object-Oriented Programming concepts
 * Collaboration and Communication
 * Advanced Git (rebasing, interactive rebase, cherry-picking, etc.)
@@ -46,3 +46,5 @@
 * Augmented Reality vs Virtual Reality
 * Brain-Computer Interfaces
 * Anything security-related
+* Haskell and Category Theory (ongoing?)
+* Natural language processing algorithms/machine learning
